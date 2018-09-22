@@ -87,6 +87,7 @@ public class MainActivity extends AppCompatActivity {
                 totalTextView.setText(zeroFormatado);
             }
         }
+        
 
         @Override
         public void afterTextChanged(Editable s) {
